@@ -36,6 +36,7 @@ __[Github]__<br>
 ###### 08    (Fri.) - Kick-Off meeting<br>
 <img width="400" src="https://user-images.githubusercontent.com/64393893/81508299-3a160b00-933e-11ea-878a-5b3e02b75c40.png"><br>
 ###### 11-12 (Tue.)<br>
+카카오톡피드백 - Anaconda & Tensorflow setting
 ###### 13-15 (Fri.)<br>
 ###### 16-19 (Tue.)<br>
 ###### 20-22 (Fri.)<br>
