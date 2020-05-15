@@ -14,7 +14,7 @@ __[Github]__<br>
 참고자료: Youtube videos
 1. 실습: [Youtube_나동빈](https://www.youtube.com/watch?v=qxUD7fOseBQ&list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)<br>
 2. 이론: [Youtube_허민석](https://www.youtube.com/watch?v=ShaqWZx3Wzc&list=PLVNY1HnUlO24lnGmxdwTgfXkd4qhDbEkG)<br>
-<img width="750" src="https://user-images.githubusercontent.com/64393893/81507511-ec4ad400-9338-11ea-9acc-cdee151aabcf.png">
+<img width="750" src="https://github.com/newhong-sci/2005_GS_deep-learning_basic/blob/master/img/Youtube_lecture_index_img.png?raw=true">
 
 
 ## 목표 및 과제<br>
@@ -34,7 +34,7 @@ __[Github]__<br>
 - - -
 #### 모임 사진
 ###### 08    (Fri.) - Kick-Off meeting<br>
-<img width="400" src="https://user-images.githubusercontent.com/64393893/81508299-3a160b00-933e-11ea-878a-5b3e02b75c40.png"><br>
+<img width="400" src="https://github.com/newhong-sci/2005_GS_deep-learning_basic/blob/master/img/200508_Kick-off.png?raw=true"><br>
 ###### 11-12 (Tue.)<br>
 카카오톡피드백 - Anaconda & Tensorflow setting
 ###### 13-15 (Fri.)<br>
