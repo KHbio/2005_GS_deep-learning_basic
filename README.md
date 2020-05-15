@@ -4,7 +4,7 @@ B 팀원: 박기민, 이현주, 장근희, 전영철, 한승웅
 
 __[Github]__<br>
 김선희: https://github.com/whatnews72/prettywoman.git<br>
-문준호: https://github.com/junho-m<br>
+문준호: https://github.com/junho-m/aistudy_jupyter<br>
 서정욱: <br>
 손근홍: https://github.com/newhong-sci/2005_GS_deep-learning_basic<br>
 이창진: https://github.com/frix4/ai-study 
