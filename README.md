@@ -38,6 +38,7 @@ __[Github]__<br>
 ###### 11-12 (Tue.)<br>
 카카오톡피드백 - Anaconda & Tensorflow setting
 ###### 13-15 (Fri.)<br>
+<img width="400" src="https://github.com/newhong-sci/2005_GS_deep-learning_basic/blob/master/img/200515_2nd_Fri_Meeting.png?raw=true"><br>
 ###### 16-19 (Tue.)<br>
 ###### 20-22 (Fri.)<br>
 ###### 23-26 (Tue.)<br>
