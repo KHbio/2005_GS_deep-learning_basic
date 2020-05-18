@@ -1,6 +1,6 @@
 # Group study - 최소한의 딥러닝팀
-A 팀원: 김선희, 문준호, 서정욱, 손근홍, 이창진<br>
-B 팀원: 박기민, 이현주, 장근희, 전영철, 한승웅
+B 팀원: 김선희, 문준호, 서정욱, 손근홍, 이창진<br>
+A 팀원: 박기민, 이현주, 장근희, 전영철, 한승웅
 
 __[Github]__<br>
 김선희: https://github.com/whatnews72/prettywoman.git<br>
