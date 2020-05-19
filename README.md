@@ -26,8 +26,18 @@ __[Github]__<br>
 1. 실습영상 13-20강 공부 (약 1시간) -> 프로젝트 경험하기
 2. 한 주간 공부한 영상에 대한 실습 복습.
 ### 16-19 (Tue.)<br>
+1. 기본 
+2. Convolutional neural network (CNN) 학습
 ### 20-22 (Fri.)<br>
+각자 준비한 CNN구조 발표
+1. LeNet-5(1998): 문준호
+2. AlexNet(2012): 서정욱
+3. GoogleNet(2014): 손근홍
+4. ResNet(2015): 아창진
+5. U-Net (2015): 문준호
 ### 23-26 (Tue.)<br>
+### ?? ()<br>
+각자 앞으로의 3-6개월 계획 구체적으로 발표
 ### 27-29 (Fri.) - Final meeting
 
 <br><br>
@@ -36,10 +46,11 @@ __[Github]__<br>
 ###### 08    (Fri.) - Kick-Off meeting<br>
 <img width="400" src="https://github.com/newhong-sci/2005_GS_deep-learning_basic/blob/master/img/200508_Kick-off.png?raw=true"><br>
 ###### 11-12 (Tue.)<br>
-카카오톡피드백 - Anaconda & Tensorflow setting
+카카오톡피드백
 ###### 13-15 (Fri.)<br>
 <img width="400" src="https://github.com/newhong-sci/2005_GS_deep-learning_basic/blob/master/img/200515_2nd_Fri_Meeting.png?raw=true"><br>
 ###### 16-19 (Tue.)<br>
+카카오톡피드백
 ###### 20-22 (Fri.)<br>
 ###### 23-26 (Tue.)<br>
 ###### 27-29 (Fri.) - Final meeting
