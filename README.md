@@ -29,12 +29,13 @@ __[Github]__<br>
 1. 기본 
 2. Convolutional neural network (CNN) 학습
 ### 20-22 (Fri.)<br>
+각자 어려운점 공유
+### 23-26 (Tue.)<br>
 각자 준비한 CNN구조 발표
 1. LeNet-5(1998): 문준호
 2. AlexNet(2012): 서정욱
 3. GoogleNet(2014): 손근홍
 4. ResNet(2015): 아창진
-### 23-26 (Tue.)<br>
 ### ?? ()<br>
 각자 앞으로의 3-6개월 계획 구체적으로 발표
 ### 27-29 (Fri.) - Final meeting
