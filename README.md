@@ -26,7 +26,7 @@ __[Github]__<br>
 1. 실습영상 13-20강 공부 (약 1시간) -> 프로젝트 경험하기
 2. 한 주간 공부한 영상에 대한 실습 복습.
 ### 16-19 (Tue.)<br>
-1. 기본 
+1. Single input neuron, Multi input neuron (perceptron), Multi-layer perceptron (MLP) 
 2. Convolutional neural network (CNN) 학습
 ### 20-22 (Fri.)<br>
 각자 어려운점 공유
