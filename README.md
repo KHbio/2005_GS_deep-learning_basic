@@ -36,7 +36,7 @@ __[Github]__<br>
 2. AlexNet(2012): 서정욱
 3. GoogleNet(2014): 손근홍
 4. ResNet(2015): 아창진
-### ?? ()<br>
+### 27-28 ()<br>
 각자 앞으로의 3-6개월 계획 구체적으로 발표
 ### 27-29 (Fri.) - Final meeting
 
